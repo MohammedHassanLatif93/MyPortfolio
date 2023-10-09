@@ -1,15 +1,5 @@
 {
   "projects": {
     "default": "myportfolio-48835"
-  },
-  "targets": {
-    "myportfolio-48835": {
-      "hosting": {
-        "staging": [
-          "myportfolio-48835"
-        ]
-      }
-    }
-  },
-  "etags": {}
+  }
 }
